@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+in newTool br update
+aaaa
+=======
+
+>>>>>>> develop
